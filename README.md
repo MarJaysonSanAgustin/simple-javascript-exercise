@@ -11,4 +11,4 @@ A simple JavaScript excercise
 
 ## Screenshot
 
-![result screenshot]('./screenshot.png')
+![result screenshot](screenshot.png)
